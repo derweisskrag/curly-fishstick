@@ -2,8 +2,8 @@
 
 use std::collections::{HashMap, HashSet};
 
-mod cpm {
-// Define a Task struct to represent each task.
+
+
 #[derive(Debug)]
 struct Task {
     name: String,
@@ -11,7 +11,7 @@ struct Task {
     dependencies: HashSet<String>, // Tasks that need to be completed before this one
 }
 
-// Define a Project struct to manage tasks.
+
 #[derive(Debug)]
 struct Project {
     tasks: HashMap<String, Task>,
@@ -71,9 +71,6 @@ impl Project {
     }
 }
 
-}
-
-
 
 fn main() {
     let mut project = Project {
@@ -83,7 +80,7 @@ fn main() {
     // Example: Adding tasks to the project
     project.add_task("Project Planning", 5, HashSet::new());
     project.add_task("Requirements Gathering", 3, HashSet::from(["Project Planning".to_string()]));
-    project.add_task("Implementation Planning", 3, HashSet::from(["Project Planning".to_string()]));
+    project.add_task("Implementation Planning", 3, HashSet::from(["Requirements Gathering".to_string()]));
     project.add_task("Testing & Review", 3, HashSet::from(["Requirements Gathering".to_string(), "Implementation Planning".to_string()]));
     project.add_task("Deployment & Training", 5, HashSet::from(["Requirements Gathering".to_string(), "Implementation Planning".to_string(), "Testing & Review".to_string()]));
 
