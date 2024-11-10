@@ -11,8 +11,12 @@
 7. [Non-Compliance With New Regulations](#non-compliance-with-new-regulations)
 8. [Incomplete Requirements](#incomplete-requirements)
 9. [Inadequate Testing Coverage](#inadequate-testing-coverage)
-10. [Sources of Information](#sources-of-information)
-11. [Footnotes](#footnotes)
+10. [Delay in Testing Due To Resource Constraints](#delay-in-testing-due-to-resource-constraints)
+11. [Product management risks](#product-management-risks)
+12. [Activities](#activities)
+13. [Risks](#risks)
+14. [Sources of Information](#sources-of-information)
+15. [Footnotes](#footnotes)
 
 ## Objective
 
