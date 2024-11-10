@@ -1,5 +1,10 @@
 # Risk Management 
 
+## Logo
+
+![image](https://github.com/user-attachments/assets/6fa72c3b-8cf8-42e9-ba8e-5e50c9d4e598)
+
+
 ## Table of Contents
 
 1. [Objective](#objective)
@@ -30,6 +35,7 @@ To create a Risk Management Matrix to map Project Activity to Risk and assess th
   1. 2. Milestones and issues associated with this repository that hosts the project plan
 2. Risk management lecture
 3. Using Copilot to cite all the sources of information (and using University of Tartu regulations for citing the information)
+4. Citing the statistics to back up my quantifiable evidence
 
 
 ##  Project activities
@@ -251,6 +257,8 @@ Automate feedback collection and prioritize response processes: Set up automated
 
 ### Risks evaluation table
 
+According to the statistics (TeamStage, 2024, Project Management statistics), I evaluate the risks as follows:
+
 | Risk ID | Probability | Impact | Risk Score |
 |---------|-------------|--------|------------|
 | 1       | High        | High   | 9          |
@@ -283,6 +291,65 @@ Where
 
 The Risk score is based on the Impact which is quantifible way to measure the risk.
 
+### Reasoning and Explanation
+
+#### Project Planning
+
+As shown by statisitcs, the Project Planning is very important and common risks such as ```Scope Creep``` and ```Stakeholder misalignment``` are quite often, and more likely to occur. The also define if the project is going to be successful or miserably fail:
+
+> "Undoubtedly, robust project management improves the chances for success, drives cost-saving, and risk reduction. The Pulse project management statistics show > 
+> that high-performing organizations with proven PM practices in place have met their original goals 2.5 times more often (89% vs. 34%)." by (TeamStage, 2024,
+> Project Management statistics, § General Project Management Stats & Facts, 5. Projects are 2.5 times more successful when PM practices are implemented.)
+
+I also found out 
+
+> "Stakeholder engagement is the most valuable PM process." by (TeamStage, 2024,
+> Project Management statistics, § Top Project Management Statistics: Editor’s Choice)
+
+Meaning that the risk is definitely not low.
+
+#### Gathering Requirements
+
+The data from the statistics agrees with my "Medium" rank for this risk. Indeed, if you know what to do, and have good tools and techniques (such as parametrized testing, automated QA support, etc), your project is more likely to be successful.
+
+> "Setting clear goals helps you to track the milestones and the progress, giving you a clear picture of where you are at the moment. Thanks to this data you can > make some tweaks or reinforce the practices that benefit your end goal." by (TeamStage, 2024, Project Management statistics, § Project Failure Statistics, 1. A > lack of clear goals is the most common factor (37%) for project failure.)
+
+#### Testing and Review
+
+From my table, we know that test coverage is common risk, and most likely to occur, as well as very important because if company deliver bad product to the market,
+it immediately affects the stakeholders and clients, thereby contributing to the decrease in reputation for the company (as shown above in the evidence).
+
+> "The latest project management stats show that 58% of organizations fully understand the value of implementing project management as a way to achieve better performance. This means that 42% of companies undervalue the importance of project management as a crucial component for project success." by (TeamStage, 2024, Project Management Statistics, § General Project Management Stats & Facts, 4. 42% of companies don’t understand the need or importance of project management.)
+
+Found from statistics, it turns out that the proper use of resources, and thus, the risk "delay in testing due to resources" is quite often. The "60%" contributes to "High" rank of the risk: it is very often and one of the most hardest.
+
+> "60% of respondents point to poor resource management as their biggest challenge. Other issues included poorly trained project sponsors (33%) ineffective PPM solution deployment (30%), and lack of governance (26%)." by (TeamStage, 2024, Project Management Statistics, § Project Management Performance Statistics, 26. Poor resource management was the biggest PM challenge in 2019.)
+
+These findings agree with my scores: "High" for "low test coverage" and "Medium" for delay in test due to resources, but the risk "poor resource management" is very high according to the statistics.
+
+#### System Analysis - Analyze the Existing Data Management
+
+So, the gathering all the data and testing it thoroughly, as well as to properly manage (proper management) is all important. Thus, making the risk "Incomplete data" and "data integration" very difficult risks to handle. It means that for the QWERTY123, we also need that proper management and make educative and informed decisions, rather relying on low amount of data and fail due to improper management.
+
+> "The attempt of Coca-Cola to introduce New Coke in 1985 is one of the most popular poor project management examples. Instead of conducting in-depth marketing research, the team administered more than 200,000 taste tests to confirm that the subjects liked the taste of New Coke more than the classic one and Pepsi. As it turned out, consumers hated it and Coca-Cola learned a very important lesson — every project needs proper management." by (TeamStage, 2024, Project Management Statistics, § Project Failure Statistics, 13. Coca-Cola wasted $4 million in development and another $30 million in back stocked products after releasing New Coke.)
+
+The following agrees with the fact that project management needs more information (data) to make good decisions to avoid improper management:
+
+> "IT project failure statistics show that 75% of respondents think their projects are always or usually doomed to fail from the start. Out of this 75%, 27% constantly feel this way. At the same time, the majority of respondents (80%) have admitted to spending half their time reshaping the projects." by (TeamStage, 2024, Project Management Statistics, § Project Failure Statistics, 8. 75% of respondents in the IT industry lack confidence in project success.)
+
+
+#### Support and Feedback - Gather User Feedback Post-Implementation
+
+The customer satisfaction and feedback are very important.
+
+> "While business value was cited as the second most popular measure (46%) of an agile initiative’s success, it ranked as the 
+eleventh most popular measure (23%) of an agile project’s success. Velocity (67%) continues to be the number one measure of 
+an agile project’s success" by (VersionOne, 2024, 11th Annual State of Agile, § How Success Is Measured... with Agile Projects)
+
+28% of respondents, according to the data referenced in the "11th Annul State of Agile", think that customer and user satisfaction is very important
+factor in their bussiness. Thus, the risk "Inadequate Feedback Collection" or "Delayed feedback" turn out to be significant for QWERTY123 company, because
+we have proper management for QA and feedback, or we might fail: 28% says it all - not critical, but very imporant.
+
 ## Sources of Information
 
 1. Scope Creep: Definition, Examples & How To Prevent It Author: Alana Rudder Publisher: Forbes Advisor https://www.forbes.com/advisor/business/scope-creep/: Forbes Advisor Date Accessed: 10 November 2024
@@ -290,6 +357,9 @@ The Risk score is based on the Impact which is quantifible way to measure the ri
 3. Understanding The Consequences Of Non-Compliance: Risks And Penalties Publisher: Financial Crime Academy [https://financialcrimeacademy.org](https://financialcrimeacademy.org/consequences-of-non-compliance/#:~:text=Non-compliance%20with%20regulations%20can%20lead%20to%20financial%20penalties%2C,requires%20developing%20policies%2C%20training%20employees%20and%20monitoring%2Fauditing%20processes.): Financial Crime Academy Date Accessed: 10 November 2024
 4. 13 Examples of Requirements Risk Author: John Spacey Publisher: Simplicable [https://simplicable.com/new/requirements-risk](https://simplicable.com/new/requirements-risk#:~:text=Incomplete%20Requirements%20Requirements%20that%20are%20incomplete%20leading%20to,that%20make%20no%20mention%20of%20a%20user%20interface.): Simplicable Date Accessed: 10 November 2024
 5. Enhancing Software Quality: Effective Test Coverage Techniques Publisher: Katalon https://katalon.com/resources-center/blog/test-coverage-techniques: Katalon Date Accessed: 10 November 2024
+6. Project Management Statistics 2024: New Trends Publisher: TeamStage https://teamstage.io/project-management-statistics/: TeamStage Date Accessed: 10 November 2024
+7. Software Testing Effort Estimation and Related Problems: A Systematic Literature Review Authors: Ilona Bluemke and Agnieszka Malanowska Publisher: ACM Digital Library https://dl.acm.org/doi/fullHtml/10.1145/3442694: ACM Digital Library Date Accessed: 10 November 2024
+8. VersionOne 11th Annual State of Agile Report Publisher: VersionOne https://www.agile247.pl/wp-content/uploads/2017/04/versionone-11th-annual-state-of-agile-report.pdf: VersionOne Date Accessed: 10 November 2024
 
 
 ## Footnotes
