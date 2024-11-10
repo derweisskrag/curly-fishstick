@@ -132,11 +132,133 @@ during this process, project management might face the classic "incomplete requi
 > Projects based on faulty requirements are most likely to fail.
 > (John Spacey, 2024, § 13 examples of requirements)
 
-> ***Major reason:*** An inefficient and wrong requirements plan contributes to the failure of the project. 
+> ***Major reason:*** An inefficient and wrong requirements plan contributes to the failure of the project.
+
+#### Solution
+
+Conduct thorough requirements workshops that translates to have a comprehensive understanding about what you are trying to achieve.
 
 ### Inadequate Testing Coverage
 
-Oops! TODO: Add information
+Like any software, a project needs high test coverage (85-100%) according to the ISO/IEC/IEEE 29119-4:2021 protocol. 
+
+> **Disclaimer**: Please, notice that the protocol clearly states that it shall not be liable for any damages or problems
+> caused by it. It means that people are responsible for their specific use of this standard (ISO) protocol. Hence, we can
+> define our own constant for the required test coverage bound: it is up to responsible people. Generally, this bound occurs
+> at 85% or more because the higher test coverage, the higher probability that you included and tested all possible scenarios
+> that can happen to your product (misuse, violation, etc).
+
+The testing coverage provides a quantifible way to measure and access the codebase and develop new testing strategies for testing the code (Katalon, 2024, § Importance of Test Coverage in Software Quality Assurance). This helps to understand which part of the software or project are thorougly tested. 
+
+What contributes to the low test coverage? The modern software development is complex process involving several key details (Katalon, 2024, § Challenges in Achieving Comprehensive Test Coverage):
+
+1. Complexity of Modern Software Systems: complex architecture of a project leads to the increased difficulty of testing each part;
+2. Rapid Development Cycles: Speed & Quality - it is not always possible to satisfy all the demand;
+3. Resource Constraints: Requires much of the time & (excellent testers)^[3] whose testing toolkit is always at their disposal, ready to be used;
+4. Evolving Requirements: constant vigilance & adaptability from the QA team.
+
+Therefore, it is important to handle testing carefully and prevent any inadequate testing risks.
+
+#### Solution
+
+1. Hire a good testing team that includes excellent testers.
+2. Automate the testing system and ensure it checks for the coverage
+3. Follow the ISO/IEC/IEEE 29119-4:2021 testing model to ensure all deliverables. 
+
+For the second solution, I would like to point out that testing with profile allows testers to see how much of the code is actually tested.
+
+### Delay in Testing Due To Resource Constraints
+
+According to available information, the hardest challenge is to achieve the highest test coverage given the lack of resources allocated for the project (Katalon, 2024, § Advanced Test Coverage Techniquese). Not only is it arduous to achieve the goal of the project and ensure all tests are passed due to resources, but advanced techniques require more time to do so. Hence, project needs more time allocated for the testing part.
+
+#### My Kanban board:
+
+![image](https://github.com/user-attachments/assets/c37bedf3-df0b-4e02-b6aa-e76dceb2546f)
+
+So, I allocated 3 bussiness days which can include:
+
+1. Minimum: 8 hours per day, so `3 * 8 = 24` hours for testing
+2. Maximum: 12 hours per day, so `3 * 12 = 36` hours for testing
+
+Lack of people, and time, usually leads to overworking and we can confidently say that the time is somewhere in `24 < t < 36`. According to the teacher feedback, and my Kanban board for the product management team, testing can be done in parallel. The QA teams work constantly and gather all the feedback due to how good some companies manage to automate the testing model. This, however, requires good experise to do so.
+
+#### Solution
+
+Optimize the resources allocated to the project. Thus, we have to find and use the techniques to optimize the resources. 
+Taking the ISO standard into consideration, we know that it is up to the companies to decide if they follow or not the protocol. 
+It clearly implies that the testing and resource allocation models are created by the companies. 
+
+> They can potentially outsource the resource management to the third company to ensure proper resource allocation given the lack of
+> expertise, as it can lead to `Delay in Testing Due To Resource Constraints`.
+
+## Product management risks
+
+### Activities
+
+From the product activities, I chose:
+
+1. System Analysis
+2. Support & Feedback
+
+### Risks
+
+| *Risk Id* | *Risk*                                       | *Description*                        | *Possible solution* |
+|-----------|----------------------------------------------|--------------------------------------|---------------------|
+| 1         | Data Integration Challenges | Legacy issues or complex data structures could cause difficulties in system integration. | S1 |
+| 2         | Incomplete Data Access | Lack of access to complete data may cause inaccurate analysis and inefficient system design. | S2 |
+| 3         | Inadequate Feedback Collection | Ineffective feedback mechanisms may lead to missing valuable user insights. | S3 |
+| 4         | Delayed Feedback | Delayed feedback collection can hinder timely resolution of critical issues and user dissatisfaction. | S4 |
+> Table 2. Risks associated with product management activities
+
+#### S1: Data standardization
+
+Adopt data standardization and transformation tools: Use ETL (Extract, Transform, Load) tools to standardize data formats, and establish clear protocols for data integration with legacy systems. Consider using middleware to facilitate integration across platforms.
+
+#### S2: Data access protocols & permissions 
+
+Establish data access protocols and permissions: Define and enforce access requirements with stakeholders and set up secure data access agreements. Regularly review data permissions to ensure access completeness and compliance.
+
+#### S3: Divesrse feedback channels
+
+Implement diverse feedback channels: Use multiple channels, such as surveys, focus groups, and user interviews, to capture comprehensive feedback. Consider in-app feedback tools to collect real-time insights directly from users.
+
+#### S4: Automation of feedback collection
+
+Automate feedback collection and prioritize response processes: Set up automated collection for frequent feedback intervals and establish a priority system for addressing urgent issues. Use tools like sentiment analysis to identify critical feedback that needs immediate attention.
+
+## Risk management matrix
+
+### Activity & Risks table
+
+| Risk ID | Activity                                      | Risk                                    | Description                                                                                   |
+|---------|----------------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------------------------|
+| 1       | Project Planning - Define Project Scope      | Scope Creep                             | New requirements could be added, causing delays and increased costs.                          |
+| 2       | Project Planning - Define Project Scope      | Stakeholder Misalignment                | Misunderstandings between stakeholders could delay approval and cause confusion.              |
+| 3       | Requirements Gathering - Identify Compliance Needs | Non-Compliance with New Regulations | Overlooking emerging regulations could result in legal and reputational risks.                |
+| 4       | Requirements Gathering - Identify Compliance Needs | Incomplete Requirements               | Rushed gathering of compliance needs may lead to errors or delays.                            |
+| 5       | Testing and Review - Develop Testing Strategy | Inadequate Testing Coverage            | Critical bugs may go undetected if testing strategy isn’t comprehensive.                      |
+| 6       | Testing and Review - Develop Testing Strategy | Delay in Testing Due to Resource Constraints | Lack of skilled testers or resources could delay the testing phase.                  |
+| 7       | System Analysis - Analyze the Existing Data Management | Data Integration Challenges          | Data integration may be difficult due to legacy system issues.                                |
+| 8       | System Analysis - Analyze the Existing Data Management | Incomplete Data Access               | Lack of access to all data could result in inaccurate analysis.                               |
+| 9       | Support and Feedback - Gather User Feedback Post-Implementation | Inadequate Feedback Collection     | Feedback mechanisms may fail, leading to missed insights.                                     |
+| 10      | Support and Feedback - Gather User Feedback Post-Implementation | Delayed Feedback                    | Delayed feedback collection could hinder resolution of critical issues.                       |
+> Table 3. The Activity & Risk tables
+
+### Risks evaluation table
+
+| Risk ID | Probability | Impact | Risk Score |
+|---------|-------------|--------|------------|
+| 1       | High        | High   | 9          |
+| 2       | Medium      | High   | 6          |
+| 3       | Medium      | High   | 6          |
+| 4       | Medium      | Medium | 4          |
+| 5       | High        | High   | 9          |
+| 6       | Medium      | High   | 6          |
+| 7       | Medium      | Medium | 4          |
+| 8       | High        | Medium | 6          |
+| 9       | Medium      | Medium | 4          |
+| 10      | Low         | High   | 3          |
+> Table 4. The risk evaluation
 
 ## Sources of Information
 
@@ -145,10 +267,10 @@ Oops! TODO: Add information
 3. Understanding The Consequences Of Non-Compliance: Risks And Penalties Publisher: Financial Crime Academy [https://financialcrimeacademy.org](https://financialcrimeacademy.org/consequences-of-non-compliance/#:~:text=Non-compliance%20with%20regulations%20can%20lead%20to%20financial%20penalties%2C,requires%20developing%20policies%2C%20training%20employees%20and%20monitoring%2Fauditing%20processes.): Financial Crime Academy Date Accessed: 10 November 2024
 4. 13 Examples of Requirements Risk Author: John Spacey Publisher: Simplicable [https://simplicable.com/new/requirements-risk](https://simplicable.com/new/requirements-risk#:~:text=Incomplete%20Requirements%20Requirements%20that%20are%20incomplete%20leading%20to,that%20make%20no%20mention%20of%20a%20user%20interface.): Simplicable Date Accessed: 10 November 2024
 5. Enhancing Software Quality: Effective Test Coverage Techniques Publisher: Katalon https://katalon.com/resources-center/blog/test-coverage-techniques: Katalon Date Accessed: 10 November 2024
-6. 
+
 
 ## Footnotes
 
 [^1]: By **developers**, I am referring to the individuals or teams who are responsible for the creation, evolution, and maintenance of the Python and Rust programming languages. These are the people who design the language's features, contribute to its codebase, and determine its release and development cycles.
 [^2]: An assignee is an individual whom the task was assigned to (responsible individual for the given task).
-
+[^3]: An excellent test is meant to be an individual who has gained high clearance and excellent comprehensive understanding about the testing field, as well as knowledge of the best techniques and tools to be used for specific part of the project to be tested with.
