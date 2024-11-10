@@ -15,8 +15,9 @@
 11. [Product management risks](#product-management-risks)
 12. [Activities](#activities)
 13. [Risks](#risks)
-14. [Sources of Information](#sources-of-information)
-15. [Footnotes](#footnotes)
+14. [Risk management matrix](#risk-management-matrix)
+15. [Sources of Information](#sources-of-information)
+16. [Footnotes](#footnotes)
 
 ## Objective
 
