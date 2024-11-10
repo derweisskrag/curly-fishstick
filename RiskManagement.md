@@ -159,7 +159,7 @@ What contributes to the low test coverage? The modern software development is co
 
 1. Complexity of Modern Software Systems: complex architecture of a project leads to the increased difficulty of testing each part;
 2. Rapid Development Cycles: Speed & Quality - it is not always possible to satisfy all the demand;
-3. Resource Constraints: Requires much of the time & excellent testers^[3] whose testing toolkit is always at their disposal, ready to be used;
+3. Resource Constraints: Requires much of the time & excellent testers[^3] whose testing toolkit is always at their disposal, ready to be used;
 4. Evolving Requirements: constant vigilance & adaptability from the QA team.
 
 Therefore, it is important to handle testing carefully and prevent any inadequate testing risks.
