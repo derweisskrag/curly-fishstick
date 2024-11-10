@@ -265,6 +265,24 @@ Automate feedback collection and prioritize response processes: Set up automated
 | 10      | Low         | High   | 3          |
 > Table 4. The risk evaluation
 
+Where
+
+| Probability Measure | Range   |
+|---------------------|---------|
+| Low                 | 0-30%   |
+| Medium              | 30-50%  |
+| High                | 60-100% |
+> Table 5. How to measure probability
+
+| Impact measure | Range   | 
+|----------------|---------|
+| Low            | 1-3     |
+| Medium         | 4-6     |
+| High           | 7-9     |
+> Table 6. How to measure impact
+
+The Risk score is based on the Impact which is quantifible way to measure the risk.
+
 ## Sources of Information
 
 1. Scope Creep: Definition, Examples & How To Prevent It Author: Alana Rudder Publisher: Forbes Advisor https://www.forbes.com/advisor/business/scope-creep/: Forbes Advisor Date Accessed: 10 November 2024
