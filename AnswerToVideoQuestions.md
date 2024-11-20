@@ -8,8 +8,9 @@
 ## Questions:
 
 Watch:
--https://www.youtube.com/watch?v=KH-qoTqtMXE
--https://www.youtube.com/watch?v=wcBx9goi0bo&list=WL&index=4
+
+- https://www.youtube.com/watch?v=KH-qoTqtMXE
+- https://www.youtube.com/watch?v=wcBx9goi0bo&list=WL&index=4
 
 
 Answer:
