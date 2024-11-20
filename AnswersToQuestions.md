@@ -68,7 +68,7 @@ the team members that you work with are obliged to adapt to it. Hence, to boost 
 is done by making tutorials, writing documentation, recording videos; as well as, meetings with email summaries and action plans.
 
 Another important step is to set agendas before meetings to ensure that participants are prepared; use the time and prepare schedules; keep track of all
-work done so far, and summarize key points and next steps after each meeting to ensure clarity and accountability.
+work done so far, and summarize key points and next steps after each meeting to ensure clarity and accountability (Daria Chukhlebova, 2024, Lecture 7 Planning 2 § Planning includes).
 
 As for making meetings interactive and boosting productivity & efficiency, you can make Q/A polls and ask questions during meetings to ensure clarity (
 sometimes you can create quizzes to ensure everyone is prepared for new tasks). Not only does it entertain teams, but it also trains them.
