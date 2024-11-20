@@ -75,3 +75,7 @@ sometimes you can create quizzes to ensure everyone is prepared for new tasks). 
 
 Lastly, you should collect feedback from stakeholders about their experiences with different tools and communication approaches. Regularly, update communication
 practices and user preferences.
+
+#### Solution
+
+> Try to add interactive content, keep track of stakeholders experiences and user preferences; build their trust thus building your wealth.
