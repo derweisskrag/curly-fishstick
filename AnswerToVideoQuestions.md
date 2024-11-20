@@ -20,3 +20,23 @@ Answer:
 3. Are these skills inherited as a talent, or can they be developed?
 
 ## Answers
+
+### What are the skills?
+The project manager's skills are
+
+1. Prioritization
+2. Delegation
+3. Effective communication
+4. Strong organizational skills
+5. Negotiation skills
+
+More skills:
+
+1. Enabling decision making
+2. Communicating and escalating
+3. Flexibility
+
+
+### Difference between PM and PL skills
+
+Yes, there is a difference for sure.
