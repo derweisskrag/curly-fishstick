@@ -6,7 +6,7 @@
 
 **Date of submission**: 26.11.2024 23:59
 
-// DRAFT:
+## DRAFT
 
 Overview (a brief description of the product or service for which realization you are planning)
 
@@ -29,3 +29,9 @@ Communication plan
 Procurement management
 
 Conclusion
+
+## Resource management
+
+## Stakeholder analysis
+
+## Cost assessment - Budget
