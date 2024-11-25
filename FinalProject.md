@@ -1,4 +1,4 @@
-# Final Project: ...
+# Final Project: Personal Training App
 
 **Composed by**: Sergei Ivanov, Andrii Stakhov, Irina Bašurova, Anastasiia Keller, Katsiaryna Petukhova
 
