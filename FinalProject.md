@@ -82,7 +82,8 @@ Our current team consists of four people:
 | Andrii Stakhov            | UX/UI Designer | Designing user-friendly interfaces for fitness apps. Proficient in Figma and Adobe XD, focusing on responsive and visually appealing designs. |
 | Irina Bašurova            | Fitness Consultant | Certified personal trainer providing exercise plans, fitness tracking strategies, and insights into user needs for fitness programs. |
 | Anastasiia Keller         | 	Marketing Strategist | Developing marketing strategies to promote the app, expertise in digital advertising, SEO, and social media campaigns. |
-| Katsiaryna Petukhova      | Quality Assurance Engineer | Ensuring app functionality and reliability through rigorous testing. Specializes in automation testing (Selenium, Cypress) and manual testing to identify and resolve bugs, ensuring a seamless user experience.
+| Katsiaryna Petukhova      | Quality Assurance Engineer | Ensuring app functionality and reliability through rigorous testing. Specializes in automation testing (Selenium, Cypress) and manual testing to identify and resolve bugs, ensuring a seamless user experience. |
+| Tony Stark | Project Manager | Oversees project execution, ensuring timely delivery and alignment with strategic goals. Specializes in team coordination, resource allocation, and risk management to ensure project success.  |
  
 
 > Table 2.: The team members of the project.
