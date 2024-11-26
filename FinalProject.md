@@ -36,7 +36,7 @@ Conclusion
 
 ## Overview 
 
-The fitness training application is for people who go to the gym for personal health and growth. The problem that our application solves is that newcomers are unaware of the gym activity. As such, we address this by educating people about the gym, its purpose and guide them through their training. 
+The fitness training application is for people who go to the gym for personal health and growth. Could you imagine having all personal trainers, fitness training, and a healthy diet in the palm of your hand? The problem that our application solves is that newcomers are unaware of gym activity and healthy practices. As such, we address this by educating people about the gym, and its purpose and guiding them through their training. 
 
 ## Resource management
 
