@@ -36,7 +36,7 @@ Conclusion
 
 ## Overview 
 
-Imagine a world where you can have a personal trainer, mental wellness coach, and health expert in the palm of your hand, guiding you every day toward achieving your fitness and life goals. Our app is not just about physical training - it is a holistic approach to health, success, and well-being The problem that our application solves is that newcomers are unaware of gym activity and healthy practices. As such, we address this by educating people about the gym, and its purpose and guiding them through their training. 
+Imagine a world where you can have a personal trainer, mental wellness coach, and health expert in the palm of your hand, guiding you every day toward achieving your fitness and life goals. Our app is not just about physical training - it is a holistic approach to health, success, and well-being. The problem that our application solves is that newcomers are unaware of gym activity and healthy practices. As such, we address this by educating people about the gym, and its purpose and guiding them through their training. 
 
 The fitness industry is booming, but millions of people still struggle to reach their health and fitness goals because they lack personalized guidance, and accountability, and often do not know where to start. Even if people go to the gym, they feel overwhelmed by the abundance of options or lack proper mental motivation. There is no single solution that combines fitness training, personal growth, and mental health in one place.
 
