@@ -102,8 +102,6 @@ Secure funds through initial investments or a small business loan.
 
 Prepare a detailed pitch to attract investors with clear goals and ROI potential.
 
-// Extra: you can visit some programs to propose your project to investors
-
 ## Stakeholder analysis
 
 ### Definition & Introduction
