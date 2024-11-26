@@ -34,6 +34,10 @@ Procurement management
 
 Conclusion
 
+## Overview 
+
+The fitness training application is for people who go to the gym for personal health and growth. The problem that our application solves is that newcomers are unaware of the gym activity. As such, we address this by educating people about the gym, its purpose and guide them through their training. 
+
 ## Resource management
 
 Resource management is an essential part of the project. It serves as a toolkit that helps people achieve the project's goal.
