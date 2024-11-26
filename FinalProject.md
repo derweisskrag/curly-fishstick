@@ -65,7 +65,6 @@ To explain the reasons behind the resources, we present the following table:
 
 Our current team consists of four people:
 
-> NB! It is not the final version, I filled the table with some data, but you can propose your roles. We will talk about it soon.
 
 | *Team member (full name)* | *Role* | *Specialization* |
 |---------------------------|--------|------------------|
