@@ -40,6 +40,15 @@ Imagine a world where you can have a personal trainer, mental wellness coach, an
 
 The fitness industry is booming, but millions of people still struggle to reach their health and fitness goals because they lack personalized guidance, and accountability, and often do not know where to start. Even if people go to the gym, they feel overwhelmed by the abundance of options or lack proper mental motivation. There is no single solution that combines fitness training, personal growth, and mental health in one place.
 
+### Technical Overview
+
+Our application protects the user data and allows them interactive and effective training in the gym or at home.
+
+1. Authorization
+2. Front-end & cross-platform app
+3. Back-end: server-side logic
+4. API: we can sell API endpoints for users to do something
+
 ## Resource management
 
 Resource management is an essential part of the project. It serves as a toolkit that helps people achieve the project's goal.
