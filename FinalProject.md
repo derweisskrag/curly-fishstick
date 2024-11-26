@@ -47,7 +47,8 @@ Our application protects the user data and allows them interactive and effective
 1. Authorization
 2. Front-end & cross-platform app
 3. Back-end: server-side logic
-4. API: we can sell API endpoints for users to do something
+4. API for commercial user
+5. Integration with other technologies such as Spotify
 
 ## Resource management
 
