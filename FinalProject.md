@@ -76,7 +76,6 @@ To explain the reasons behind the resources, we present the following table:
 
 Our current team consists of four people:
 
-
 | *Team member (full name)* | *Role* | *Specialization* |
 |---------------------------|--------|------------------|
 | Sergei Ivanov             | Full-stack developer | Frontend (React, Next.js), Backend (Node.js, Kotlin, Rust), and database integration (SQLite). Expertise in deploying and managing apps on cloud platforms like Vercel. |
