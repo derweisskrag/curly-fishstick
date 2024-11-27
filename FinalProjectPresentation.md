@@ -54,3 +54,29 @@ Health: Improving overall physical and mental wellness.
 
 Wealth: Providing value that translates into personal and financial gains.
 ```
+
+Goals with PM:
+
+1. Functionality Goals
+2. Business Goals
+3. Technological Goals
+4. Quality goals
+5. Constraints
+
+## Scope
+
+1. Workout tracking
+2. Visualization & Progress & Consistency (Mindset) - Support oriented step
+3. Dashboards/Profiles/Auth/Security
+4. Recommendation feed / AI integration (possibility of the scope)
+
+Non-functional scope:
+
+1. The app is for iOS and Android
+2. Simple & Clear design, user friendly (for deaf and blind people too)
+
+## WBS
+
+// Show them diagram
+
+
