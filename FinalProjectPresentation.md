@@ -63,6 +63,8 @@ Goals with PM:
 4. Quality goals
 5. Constraints
 
+> Update our teams and hire specialists to fit into the market
+
 ## Scope
 
 1. Workout tracking
@@ -79,4 +81,20 @@ Non-functional scope:
 
 // Show them diagram
 
+It is a linear WBS, quite straightforward, similar to Python. Each phase is waiting for and completed to go ahead with the next one.
+
+## Resource management
+
+Of primary resources: 
+
+1. People who come with expertise and knowledge
+2. Time
+3. Money
+4. Investors
+
+Time is handled by Gantt chart
+
+
+
+   
 
